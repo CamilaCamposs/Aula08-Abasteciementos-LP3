@@ -1,0 +1,15 @@
+/home/estudante1/SP3065847/Aula82/bin/Debug/net7.0/Aula82
+/home/estudante1/SP3065847/Aula82/bin/Debug/net7.0/Aula82.deps.json
+/home/estudante1/SP3065847/Aula82/bin/Debug/net7.0/Aula82.runtimeconfig.json
+/home/estudante1/SP3065847/Aula82/bin/Debug/net7.0/Aula82.dll
+/home/estudante1/SP3065847/Aula82/bin/Debug/net7.0/Aula82.pdb
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/Aula82.csproj.AssemblyReference.cache
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/Aula82.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/Aula82.AssemblyInfoInputs.cache
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/Aula82.AssemblyInfo.cs
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/Aula82.csproj.CoreCompileInputs.cache
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/Aula82.dll
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/refint/Aula82.dll
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/Aula82.pdb
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/Aula82.genruntimeconfig.cache
+/home/estudante1/SP3065847/Aula82/obj/Debug/net7.0/ref/Aula82.dll
